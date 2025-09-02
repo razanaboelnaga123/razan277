@@ -9,6 +9,7 @@ class MagicalContact:
 
     def get_email(self):
         return self.__email
+
     def get_phone_number(self):
         return self.__phone_number
     
